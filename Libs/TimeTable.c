@@ -17,6 +17,8 @@ Class* createClass (){                      // Procedimiento para crear una clas
     c -> name = readString ();              // Nombre de la asignatura
     printf ("Donde?  : ");                  // Pregunta por la
     c -> location = readString ();          // Ubicacion
+    printf("\nSala?  : ");                  // Pregunta por la
+    c-> classroom = readString();           // Sala
     return c;                               // Retorna el curso
 }
 void** CreateKeys (){                                           // Procedimiento para crea las claves de las que se compone un dia

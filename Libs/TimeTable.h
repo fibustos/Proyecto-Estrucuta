@@ -15,6 +15,7 @@
 typedef struct {                // Estrucuta para añadir una clase
     char *name;                 // Nombre de la clase
     char *location;             // Ubicacion de la clase
+    char *classroom;            // sala donde se efectua la clase
 } Class;                        // Nombre de la estructura
 
 Class* createClass ();          // Procedimiento para crear una clase

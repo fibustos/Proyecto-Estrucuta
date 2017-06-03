@@ -40,3 +40,44 @@
 	"mauri.h"
 	"TimeTable.h"
 
+1496470358 source:c:\users\pipe\documents\github\proyecto-estrucuta\libs\list.c
+	<stdlib.h>
+	"List.h"
+
+1496470358 c:\users\pipe\documents\github\proyecto-estrucuta\libs\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1496470358 source:c:\users\pipe\documents\github\proyecto-estrucuta\libs\mauri.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	"mauri.h"
+
+1496470358 c:\users\pipe\documents\github\proyecto-estrucuta\libs\mauri.h
+
+1496472160 source:c:\users\pipe\documents\github\proyecto-estrucuta\libs\timetable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"List.h"
+	"mauri.h"
+	"TimeTable.h"
+
+1496472042 c:\users\pipe\documents\github\proyecto-estrucuta\libs\timetable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"List.h"
+	"mauri.h"
+	"TimeTable.h"
+
+1496470686 source:c:\users\pipe\documents\github\proyecto-estrucuta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Libs/List.h"
+	"Libs/mauri.h"
+	"Libs/TimeTable.h"
+
