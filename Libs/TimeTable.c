@@ -17,7 +17,7 @@ Class* createClass (){                      // Procedimiento para crear una clas
     c -> name = readString ();              // Nombre de la asignatura
     printf ("Donde?  : ");                  // Pregunta por la
     c -> location = readString ();          // Ubicacion
-    printf("\nSala?  : ");                  // Pregunta por la
+    printf ("Sala?   : ");                  // Pregunta por la
     c-> classroom = readString();           // Sala
     return c;                               // Retorna el curso
 }
@@ -53,6 +53,7 @@ void PrintTimeTable (void** tt){                        // Procedimiento para im
             while (c){                                  // Si existe
                 printf (" [%s] ", c -> location);       // Imprimimos su ubicacion
                 printf ("%s", c -> name);               // Imprimimos su nombre
+                printf(" sala[%s] ", c -> classroom);
                 c = next (list);                        // Rescatamos el siguient elemento de la lista y repetimso el proceso
                 if (c) printf (",");                    // Si aun quedan elementos por mostrar, imprime una como ','
                 else printf ("\n");                     // En caso contrario termina la linea

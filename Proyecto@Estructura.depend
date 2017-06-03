@@ -57,7 +57,7 @@
 
 1496470358 c:\users\pipe\documents\github\proyecto-estrucuta\libs\mauri.h
 
-1496472160 source:c:\users\pipe\documents\github\proyecto-estrucuta\libs\timetable.c
+1496533586 source:c:\users\pipe\documents\github\proyecto-estrucuta\libs\timetable.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -65,7 +65,7 @@
 	"mauri.h"
 	"TimeTable.h"
 
-1496472042 c:\users\pipe\documents\github\proyecto-estrucuta\libs\timetable.h
+1496533249 c:\users\pipe\documents\github\proyecto-estrucuta\libs\timetable.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -73,7 +73,7 @@
 	"mauri.h"
 	"TimeTable.h"
 
-1496470686 source:c:\users\pipe\documents\github\proyecto-estrucuta\main.c
+1496533249 source:c:\users\pipe\documents\github\proyecto-estrucuta\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
